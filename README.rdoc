@@ -1,0 +1,12 @@
+= About
+
+A custom function for wordpress to create a active class based navigation
+ 
+Author:: Sam Napolitano
+Copyright:: Copyright (c) 2010 Rainy Day Media, LLC
+My Site:: http://napolitopia.com
+Follow Me:: http://twitter.com/eightamrock
+ 
+== Examples
+  
+  # See functions.html
